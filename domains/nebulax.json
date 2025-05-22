@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "Aydentech1",
+    "email": "aydentech1@gmail.com" // Optional
+  },
+  "record": {
+    "CNAME": "https://nebula-x-site-olive.vercel.app/" // e.g., my-vercel-project.vercel.app
+  }
+}
